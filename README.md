@@ -4,7 +4,7 @@
 
 💻 Desenvolvedora em formação  
 ☕ Foco em Java e Back-end  
-📚 Estudando para concursos e evolução contínua  
+📚 Estudando para concursos 
 🚀 Construindo consistência todos os dias  
 
 ---
