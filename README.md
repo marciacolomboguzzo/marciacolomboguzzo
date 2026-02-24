@@ -1,11 +1,38 @@
-# Olá 👋 Eu sou a Márcia
+# Olá 👋 Eu sou a Márcia 
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-📚 Focada em concurso e evolução contínua  
-🚀 Em construção diária  
+
+
+💻 Desenvolvedora em formação  
+☕ Foco em Java e Back-end  
+📚 Estudando para concursos e evolução contínua  
+🚀 Construindo consistência todos os dias  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciacolomboguzzo&show_icons=true&theme=radical)
+## 🚀 Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciacolomboguzzo&layout=compact&theme=radical)
+![Java](https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5)
+![Git](https://img.shields.io/badge/Git-Versionamento-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🏆 Conquistas
+
+- 📌 Repositórios públicos em crescimento  
+- 📈 Evolução contínua em Java  
+- 🚀 Construindo disciplina e consistência  
+
+---
+
+## 📊 Status do Perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=marciacolomboguzzo&color=blue&style=for-the-badge)
+
+---
+
+✨ Em construção, mas com direção. 
+<p align="center">
+  <img width="350" alt="Snoopy estudando" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHkzbGpqd2tzNWt5cGRyNzFpdzQwdTQwcHFqNmxoODZ0OGtzbXA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ndYconqeK7gDz0C7EZ/giphy.gif">
+</p>
